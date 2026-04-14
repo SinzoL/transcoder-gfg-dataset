@@ -1,0 +1,5461 @@
+{
+  "total": 545,
+  "source": "TransCoder-GeeksForGeeks",
+  "languages": [
+    "cpp",
+    "java",
+    "python"
+  ],
+  "functions": [
+    {
+      "id": "ADD_1_TO_A_GIVEN_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "ADD_1_TO_A_GIVEN_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "ADD_TWO_NUMBERS_WITHOUT_USING_ARITHMETIC_OPERATORS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "ANALYSIS_OF_ALGORITHMS_SET_2_ASYMPTOTIC_ANALYSIS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "AREA_OF_A_HEXAGON",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "AREA_OF_THE_CIRCLE_THAT_HAS_A_SQUARE_AND_A_CIRCLE_INSCRIBED_IN_IT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "AREA_SQUARE_CIRCUMSCRIBED_CIRCLE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "ARRAY_ELEMENT_MOVED_K_USING_SINGLE_MOVES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "ARRAY_RANGE_QUERIES_ELEMENTS_FREQUENCY_VALUE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "BASIC_AND_EXTENDED_EUCLIDEAN_ALGORITHMS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "BELL_NUMBERS_NUMBER_OF_WAYS_TO_PARTITION_A_SET",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "BINARY_SEARCH",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "BREAKING_NUMBER_FIRST_PART_INTEGRAL_DIVISION_SECOND_POWER_10",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CALCULATE_AREA_TETRAHEDRON",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CALCULATE_MAXIMUM_VALUE_USING_SIGN_TWO_NUMBERS_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CALCULATE_VOLUME_DODECAHEDRON",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CASSINIS_IDENTITY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CEILING_IN_A_SORTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "CEILING_IN_A_SORTED_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "CHANGE_ARRAY_PERMUTATION_NUMBERS_1_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHANGE_BITS_CAN_MADE_ONE_FLIP",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_ARRAY_CONTAINS_CONTIGUOUS_INTEGERS_DUPLICATES_ALLOWED",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_ARRAY_REPRESENTS_INORDER_BINARY_SEARCH_TREE_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_EXIST_TWO_ELEMENTS_ARRAY_WHOSE_SUM_EQUAL_SUM_REST_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_GIVEN_CIRCLE_LIES_COMPLETELY_INSIDE_RING_FORMED_TWO_CONCENTRIC_CIRCLES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 5
+    },
+    {
+      "id": "CHECK_GIVEN_SENTENCE_GIVEN_SET_SIMPLE_GRAMMER_RULES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_GIVEN_STRING_ROTATION_PALINDROME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_IF_ALL_THE_ELEMENTS_CAN_BE_MADE_OF_SAME_PARITY_BY_INVERTING_ADJACENT_ELEMENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_IF_A_NUMBER_IS_JUMBLED_OR_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_IF_STRING_REMAINS_PALINDROME_AFTER_REMOVING_GIVEN_NUMBER_OF_CHARACTERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_INTEGER_OVERFLOW_MULTIPLICATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_LINE_PASSES_ORIGIN",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "CHECK_NUMBER_IS_PERFECT_SQUARE_USING_ADDITIONSUBTRACTION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_NUMBER_POWER_K_USING_BASE_CHANGING_METHOD",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_OCCURRENCES_CHARACTER_APPEAR_TOGETHER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_POSSIBLE_SORT_ARRAY_CONDITIONAL_SWAPPING_ADJACENT_ALLOWED",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_POSSIBLE_TRANSFORM_ONE_STRING_ANOTHER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_REVERSING_SUB_ARRAY_MAKE_ARRAY_SORTED",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_REVERSING_SUB_ARRAY_MAKE_ARRAY_SORTED_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_STRING_CAN_OBTAINED_ROTATING_ANOTHER_STRING_2_PLACES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_TWO_GIVEN_CIRCLES_TOUCH_INTERSECT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 6
+    },
+    {
+      "id": "CHECK_WHETHER_ARITHMETIC_PROGRESSION_CAN_FORMED_GIVEN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_WHETHER_GIVEN_DEGREES_VERTICES_REPRESENT_GRAPH_TREE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "CHECK_WHETHER_TRIANGLE_VALID_NOT_SIDES_GIVEN",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "CHOCOLATE_DISTRIBUTION_PROBLEM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CIRCLE_LATTICE_POINTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COIN_GAME_WINNER_EVERY_PLAYER_THREE_CHOICES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "COMPOSITE_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COMPUTE_AVERAGE_TWO_NUMBERS_WITHOUT_OVERFLOW",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COMPUTE_AVERAGE_TWO_NUMBERS_WITHOUT_OVERFLOW_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COMPUTE_MODULUS_DIVISION_BY_A_POWER_OF_2_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "COMPUTE_N_UNDER_MODULO_P",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "CONVERTING_ONE_STRING_USING_APPEND_DELETE_LAST_OPERATIONS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "CONVERT_STRICTLY_INCREASING_ARRAY_MINIMUM_CHANGES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COST_BALANCE_PARANTHESES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_CHARACTERS_POSITION_ENGLISH_ALPHABETS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_CHARACTERS_STRING_DISTANCE_ENGLISH_ALPHABETS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_DERANGEMENTS_PERMUTATION_SUCH_THAT_NO_ELEMENT_APPEARS_IN_ITS_ORIGINAL_POSITION_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_DIGITS_FACTORIAL_SET_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_DISTINCT_OCCURRENCES_AS_A_SUBSEQUENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_EVEN_LENGTH_BINARY_SEQUENCES_WITH_SAME_SUM_OF_FIRST_AND_SECOND_HALF_BITS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_FACTORIAL_NUMBERS_IN_A_GIVEN_RANGE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_FIBONACCI_NUMBERS_GIVEN_RANGE_LOG_TIME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_FREQUENCY_K_MATRIX_SIZE_N_MATRIXI_J_IJ",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_INVERSIONS_OF_SIZE_THREE_IN_A_GIVE_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_MINIMUM_NUMBER_SUBSETS_SUBSEQUENCES_CONSECUTIVE_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NATURAL_NUMBERS_WHOSE_PERMUTATION_GREATER_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NUMBERS_CAN_CONSTRUCTED_USING_TWO_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "COUNT_NUMBERS_THAT_DONT_CONTAIN_3",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NUMBER_BINARY_STRINGS_WITHOUT_CONSECUTIVE_1S",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NUMBER_OF_OCCURRENCES_OR_FREQUENCY_IN_A_SORTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_NUMBER_OF_WAYS_TO_COVER_A_DISTANCE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NUMBER_OF_WAYS_TO_FILL_A_N_X_4_GRID_USING_1_X_4_TILES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NUMBER_PAIRS_N_B_N_GCD_B_B",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NUMBER_WAYS_REACH_GIVEN_SCORE_GAME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_NUMBER_WAYS_TILE_FLOOR_SIZE_N_X_M_USING_1_X_M_SIZE_TILES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_OFDIFFERENT_WAYS_EXPRESS_N_SUM_1_3_4",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_OF_OCCURRENCES_OF_A_101_PATTERN_IN_A_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_OF_PAIRS_SATISFYING_THE_GIVEN_CONDITION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_PAIRS_DIFFERENCE_EQUAL_K",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_PAIRS_DIFFERENCE_EQUAL_K_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_PALINDROME_SUB_STRINGS_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_PALINDROMIC_SUBSEQUENCE_GIVEN_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "COUNT_POSSIBLE_WAYS_TO_CONSTRUCT_BUILDINGS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SET_BITS_IN_AN_INTEGER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SET_BITS_IN_AN_INTEGER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SET_BITS_IN_AN_INTEGER_3",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_STRINGS_ADJACENT_CHARACTERS_DIFFERENCE_ONE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_STRINGS_CAN_FORMED_USING_B_C_GIVEN_CONSTRAINTS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SUBARRAYS_EQUAL_NUMBER_1S_0S",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SUBARRAYS_EQUAL_NUMBER_1S_0S_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SUBARRAYS_TOTAL_DISTINCT_ELEMENTS_ORIGINAL_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SUBARRAYS_WITH_SAME_EVEN_AND_ODD_ELEMENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SUBSTRINGS_WITH_SAME_FIRST_AND_LAST_CHARACTERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_SUM_OF_DIGITS_IN_NUMBERS_FROM_1_TO_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_TOTAL_SET_BITS_IN_ALL_NUMBERS_FROM_1_TO_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_TRAILING_ZEROES_FACTORIAL_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_WAYS_BUILD_STREET_GIVEN_CONSTRAINTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_WAYS_DIVIDE_CIRCLE_USING_N_NON_INTERSECTING_CHORDS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "C_PROGRAM_CONCATENATE_STRING_GIVEN_NUMBER_TIMES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "C_PROGRAM_FACTORIAL_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "C_PROGRAM_FACTORIAL_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "C_PROGRAM_FACTORIAL_NUMBER_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "C_PROGRAM_FIND_LARGEST_ELEMENT_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DECIMAL_BINARY_CONVERSION_WITHOUT_USING_ARITHMETIC_OPERATORS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DECIMAL_REPRESENTATION_GIVEN_BINARY_STRING_DIVISIBLE_10_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DECODE_MEDIAN_STRING_ORIGINAL_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DETECT_IF_TWO_INTEGERS_HAVE_OPPOSITE_SIGNS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "DICE_THROW_PROBLEM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "DICE_THROW_PROBLEM_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DISTRIBUTING_ITEMS_PERSON_CANNOT_TAKE_TWO_ITEMS_TYPE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "DISTRIBUTING_M_ITEMS_CIRCLE_SIZE_N_STARTING_K_TH_POSITION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "DIVISIBILITY_9_USING_BITWISE_OPERATORS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DIVISIBILITY_BY_7",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DOUBLE_FACTORIAL",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DOUBLE_FACTORIAL_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DYCK_PATH",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DYNAMIC_PROGRAMMING_HIGH_EFFORT_VS_LOW_EFFORT_TASKS_PROBLEM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DYNAMIC_PROGRAMMING_SET_14_MAXIMUM_SUM_INCREASING_SUBSEQUENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "DYNAMIC_PROGRAMMING_SET_36_CUT_A_ROPE_TO_MAXIMIZE_PRODUCT_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "DYNAMIC_PROGRAMMING_SET_37_BOOLEAN_PARENTHESIZATION_PROBLEM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "EFFICIENT_SEARCH_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_IS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "EFFICIENT_WAY_CHECK_WHETHER_N_TH_FIBONACCI_NUMBER_MULTIPLE_10",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "EFFICIENT_WAY_TO_MULTIPLY_WITH_7",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "ELEMENTS_TO_BE_ADDED_SO_THAT_ALL_ELEMENTS_OF_A_RANGE_ARE_PRESENT_IN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "EULERIAN_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "EULERS_CRITERION_CHECK_IF_SQUARE_ROOT_UNDER_MODULO_P_EXISTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "EVEN_FIBONACCI_NUMBERS_SUM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FAST_MULTIPLICATION_METHOD_WITHOUT_USING_MULTIPLICATION_OPERATOR_RUSSIAN_PEASANTS_ALGORITHM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIBONACCI_MODULO_P",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FINDING_POWER_PRIME_NUMBER_P_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FINDING_POWER_PRIME_NUMBER_P_N_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_A_FIXED_POINT_IN_A_GIVEN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_A_TRIPLET_THAT_SUM_TO_A_GIVEN_VALUE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_A_TRIPLET_THAT_SUM_TO_A_GIVEN_VALUE_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_EQUAL_POINT_STRING_BRACKETS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_FIRST_NATURAL_NUMBER_WHOSE_FACTORIAL_DIVISIBLE_X",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_INDEX_GIVEN_FIBONACCI_NUMBER_CONSTANT_TIME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_INDEX_GIVEN_FIBONACCI_NUMBER_CONSTANT_TIME_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_INDEX_OF_AN_EXTRA_ELEMENT_PRESENT_IN_ONE_SORTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_INDEX_OF_AN_EXTRA_ELEMENT_PRESENT_IN_ONE_SORTED_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_LARGEST_PRIME_FACTOR_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_MAXIMUM_DOT_PRODUCT_TWO_ARRAYS_INSERTION_0S",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_MAXIMUM_HEIGHT_PYRAMID_FROM_THE_GIVEN_ARRAY_OF_OBJECTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_MAXIMUM_SUM_POSSIBLE_EQUAL_SUM_THREE_STACKS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "FIND_MINIMUM_DIFFERENCE_PAIR",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_MINIMUM_DIFFERENCE_PAIR_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_MINIMUM_ELEMENT_IN_A_SORTED_AND_ROTATED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_MINIMUM_NUMBER_DIVIDED_MAKE_NUMBER_PERFECT_SQUARE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_MINIMUM_SUM_FACTORS_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_N_TH_ELEMENT_FROM_STERNS_DIATOMIC_SERIES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_ONE_EXTRA_CHARACTER_STRING_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_PAIR_WITH_GREATEST_PRODUCT_IN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_PERIMETER_CYLINDER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_POSITION_GIVEN_NUMBER_AMONG_NUMBERS_MADE_4_7",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_REPETITIVE_ELEMENT_1_N_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_REPETITIVE_ELEMENT_1_N_1_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_ROTATION_COUNT_ROTATED_SORTED_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_SMALLEST_VALUE_REPRESENTED_SUM_SUBSET_GIVEN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_SUBARRAY_WITH_GIVEN_SUM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_SUBARRAY_WITH_GIVEN_SUM_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_SUM_EVEN_FACTORS_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_SUM_MODULO_K_FIRST_N_NATURAL_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_SUM_MODULO_K_FIRST_N_NATURAL_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_SUM_NON_REPEATING_DISTINCT_ELEMENTS_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_SUM_ODD_FACTORS_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_SUM_UNIQUE_SUB_ARRAY_SUM_GIVEN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THE_ELEMENT_THAT_APPEARS_ONCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THE_FIRST_MISSING_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_THE_MAXIMUM_ELEMENT_IN_AN_ARRAY_WHICH_IS_FIRST_INCREASING_AND_THEN_DECREASING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_THE_MAXIMUM_SUBARRAY_XOR_IN_A_GIVEN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "FIND_THE_MISSING_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THE_MISSING_NUMBER_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "FIND_UNIT_DIGIT_X_RAISED_POWER_Y",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_UNIT_DIGIT_X_RAISED_POWER_Y_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_WHETHER_AN_ARRAY_IS_SUBSET_OF_ANOTHER_ARRAY_SET_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_WHETHER_AN_ARRAY_IS_SUBSET_OF_ANOTHER_ARRAY_SET_1_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIND_WHETHER_GIVEN_INTEGER_POWER_3_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FIRST_ELEMENT_OCCURRING_K_TIMES_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "FIRST_UPPERCASE_LETTER_IN_A_STRING_ITERATIVE_AND_RECURSIVE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FLOOR_IN_A_SORTED_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FORM_SMALLEST_NUMBER_USING_ONE_SWAP_OPERATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FREQUENT_ELEMENT_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FRIENDS_PAIRING_PROBLEM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FRIENDS_PAIRING_PROBLEM_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "FUNCTION_COPY_STRING_ITERATIVE_RECURSIVE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "GCD_ELEMENTS_GIVEN_RANGE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "GIVEN_A_SORTED_AND_ROTATED_ARRAY_FIND_IF_THERE_IS_A_PAIR_WITH_A_GIVEN_SUM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "GIVEN_A_SORTED_AND_ROTATED_ARRAY_FIND_IF_THERE_IS_A_PAIR_WITH_A_GIVEN_SUM_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "GOOGLE_CASE_GIVEN_SENTENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "HARDY_RAMANUJAN_THEOREM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "HEIGHT_COMPLETE_BINARY_TREE_HEAP_N_NODES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "HEXAGONAL_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "HIGHWAY_BILLBOARD_PROBLEM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "HORNERS_METHOD_POLYNOMIAL_EVALUATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "HOW_TO_PRINT_MAXIMUM_NUMBER_OF_A_USING_GIVEN_FOUR_KEYS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "HOW_TO_TURN_OFF_A_PARTICULAR_BIT_IN_A_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "HYPERCUBE_GRAPH",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "INTEGER_POSITIVE_VALUE_POSITIVE_NEGATIVE_VALUE_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "K_TH_DIGIT_RAISED_POWER_B",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "K_TH_DISTINCT_OR_NON_REPEATING_ELEMENT_IN_AN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "K_TH_DISTINCT_OR_NON_REPEATING_ELEMENT_IN_AN_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "K_TH_ELEMENT_TWO_SORTED_ARRAYS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "K_TH_PRIME_FACTOR_GIVEN_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LARGEST_SUBSEQUENCE_GCD_GREATER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LARGEST_SUM_CONTIGUOUS_SUBARRAY_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LCS_FORMED_CONSECUTIVE_SEGMENTS_LEAST_LENGTH_K",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "LENGTH_LONGEST_STRICT_BITONIC_SUBSEQUENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LEONARDO_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LEXICOGRAPHICALLY_MINIMUM_STRING_ROTATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LEXICOGRAPHICALLY_NEXT_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LEXICOGRAPHICAL_CONCATENATION_SUBSTRINGS_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LEXICOGRAPHICAL_MAXIMUM_SUBSTRING_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_COMMON_INCREASING_SUBSEQUENCE_LCS_LIS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "LONGEST_INCREASING_ODD_EVEN_SUBSEQUENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_PALINDROME_SUBSEQUENCE_SPACE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_PREFIX_ALSO_SUFFIX_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_REPEATED_SUBSEQUENCE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_REPEATING_AND_NON_OVERLAPPING_SUBSTRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_REPEATING_SUBSEQUENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_SUBARRAY_COUNT_1S_ONE_COUNT_0S",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LONGEST_SUBSEQUENCE_SUCH_THAT_DIFFERENCE_BETWEEN_ADJACENTS_IS_ONE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "LOWER_INSERTION_POINT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAKING_ELEMENTS_OF_TWO_ARRAYS_SAME_WITH_MINIMUM_INCREMENTDECREMENT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMIZE_SUM_ARRII",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMIZE_SUM_CONSECUTIVE_DIFFERENCES_CIRCULAR_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMIZE_VOLUME_CUBOID_GIVEN_SUM_SIDES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMIZE_VOLUME_CUBOID_GIVEN_SUM_SIDES_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_AVERAGE_SUM_PARTITION_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_BINOMIAL_COEFFICIENT_TERM_VALUE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_CONSECUTIVE_NUMBERS_PRESENT_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_CONSECUTIVE_REPEATING_CHARACTER_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_CONSECUTIVE_REPEATING_CHARACTER_STRING_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_DISTANCE_TWO_OCCURRENCES_ELEMENT_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_EQULIBRIUM_SUM_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_GAMES_PLAYED_WINNER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_HEIGHT_OF_TRIANGULAR_ARRANGEMENT_OF_ARRAY_VALUES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_HEIGHT_OF_TRIANGULAR_ARRANGEMENT_OF_ARRAY_VALUES_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_LENGTH_PREFIX_ONE_STRING_OCCURS_SUBSEQUENCE_ANOTHER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_LENGTH_SUBSEQUENCE_DIFFERENCE_ADJACENT_ELEMENTS_EITHER_0_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_NUMBER_2X2_SQUARES_CAN_FIT_INSIDE_RIGHT_ISOSCELES_TRIANGLE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_NUMBER_CHARACTERS_TWO_CHARACTER_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_NUMBER_CHOCOLATES_DISTRIBUTED_EQUALLY_AMONG_K_STUDENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_NUMBER_OF_SQUARES_THAT_CAN_BE_FIT_IN_A_RIGHT_ANGLE_ISOSCELES_TRIANGLE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_NUMBER_SEGMENTS_LENGTHS_B_C",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "MAXIMUM_POINTS_INTERSECTION_N_CIRCLES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_POSSIBLE_DIFFERENCE_TWO_SUBSETS_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_PRODUCT_SUBARRAY_ADDED_NEGATIVE_PRODUCT_CASE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_PRODUCT_SUBSET_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_PROFIT_BY_BUYING_AND_SELLING_A_SHARE_AT_MOST_K_TIMES_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_PROFIT_BY_BUYING_AND_SELLING_A_SHARE_AT_MOST_TWICE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_REMOVAL_FROM_ARRAY_WHEN_REMOVAL_TIME_WAITING_TIME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_SUBARRAY_SUM_USING_PREFIX_SUM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_SUBSEQUENCE_SUM_SUCH_THAT_NO_THREE_ARE_CONSECUTIVE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_SUM_BITONIC_SUBARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_SUM_SUBARRAY_REMOVING_ONE_ELEMENT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_SUM_SUBSEQUENCE_LEAST_K_DISTANT_ELEMENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MAXIMUM_TRIPLET_SUM_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_TRIPLET_SUM_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_TRIPLET_SUM_ARRAY_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MEDIAN_OF_TWO_SORTED_ARRAYS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "MINIMIZE_SUM_PRODUCT_TWO_ARRAYS_PERMUTATIONS_ALLOWED",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMIZE_THE_SUM_OF_DIGITS_OF_A_AND_B_SUCH_THAT_A_B_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_CHARACTERS_ADDED_FRONT_MAKE_STRING_PALINDROME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_COST_CONNECT_WEIGHTED_NODES_REPRESENTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_COST_CUT_BOARD_SQUARES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_COST_FOR_ACQUIRING_ALL_COINS_WITH_K_EXTRA_COINS_ALLOWED_WITH_EVERY_COIN",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_COST_MAKE_ARRAY_SIZE_1_REMOVING_LARGER_PAIRS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_DIFFERENCE_MAX_MIN_K_SIZE_SUBSETS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_INCREMENT_K_OPERATIONS_MAKE_ELEMENTS_EQUAL",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_INSERTIONS_SORT_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_LENGTH_SUBARRAY_SUM_GREATER_GIVEN_VALUE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_LENGTH_SUBARRAY_SUM_GREATER_GIVEN_VALUE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_NUMBER_PLATFORMS_REQUIRED_RAILWAYBUS_STATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_OPERATIONS_MAKE_GCD_ARRAY_MULTIPLE_K",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_PERIMETER_N_BLOCKS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_PRODUCT_SUBSET_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_ROTATIONS_REQUIRED_GET_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_ROTATIONS_UNLOCK_CIRCULAR_LOCK",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MINIMUM_STEPS_MINIMIZE_N_PER_GIVEN_CONDITION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_STEPS_TO_DELETE_A_STRING_AFTER_REPEATED_DELETION_OF_PALINDROME_SUBSTRINGS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_SUM_TWO_NUMBERS_FORMED_DIGITS_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_SUM_TWO_NUMBERS_FORMED_DIGITS_ARRAY_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_TIME_TO_FINISH_TASKS_WITHOUT_SKIPPING_TWO_CONSECUTIVE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_TIME_WRITE_CHARACTERS_USING_INSERT_DELETE_COPY_OPERATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "MINIMUM_XOR_VALUE_PAIR",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MINIMUM_XOR_VALUE_PAIR_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MODULAR_EXPONENTIATION_POWER_IN_MODULAR_ARITHMETIC",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "MODULUS_TWO_FLOAT_DOUBLE_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "MULTIPLY_AN_INTEGER_WITH_3_5",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "MULTIPLY_LARGE_NUMBERS_REPRESENTED_AS_STRINGS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "NEXT_POWER_OF_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NEXT_POWER_OF_2_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NEXT_POWER_OF_2_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NON_REPEATING_ELEMENT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NTH_EVEN_LENGTH_PALINDROME",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NTH_NON_FIBONACCI_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NTH_PENTAGONAL_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_DAYS_TANK_WILL_BECOME_EMPTY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "NUMBER_INDEXES_EQUAL_ELEMENTS_GIVEN_RANGE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "NUMBER_IS_DIVISIBLE_BY_29_OR_NOT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_JUMP_REQUIRED_GIVEN_LENGTH_REACH_POINT_FORM_D_0_ORIGIN_2D_PLANE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "NUMBER_NON_NEGATIVE_INTEGRAL_SOLUTIONS_B_C_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_NON_NEGATIVE_INTEGRAL_SOLUTIONS_B_C_N_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_N_DIGIT_STEPPING_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_OF_BINARY_TREES_FOR_GIVEN_PREORDER_SEQUENCE_LENGTH",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_OF_PAIRS_IN_AN_ARRAY_HAVING_SUM_EQUAL_TO_PRODUCT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_OF_SUBSTRINGS_WITH_ODD_DECIMAL_VALUE_IN_A_BINARY_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_OF_TRIANGLES_IN_A_PLANE_IF_NO_MORE_THAN_TWO_POINTS_ARE_COLLINEAR",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_ORDERED_PAIRS_AI_AJ_0",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_RECTANGLES_NM_GRID",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "NUMBER_SUBSEQUENCES_AB_STRING_REPEATED_K_TIMES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "NUMBER_SUBSEQUENCES_FORM_AI_BJ_CK",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_SUBSTRINGS_DIVISIBLE_4_STRING_INTEGERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_SUBSTRINGS_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_TRIANGLES_N_MOVES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_UNIQUE_RECTANGLES_FORMED_USING_N_UNIT_SQUARES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_VISIBLE_BOXES_PUTTING_ONE_INSIDE_ANOTHER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "NUMBER_WAYS_NODE_MAKE_LOOP_SIZE_K_UNDIRECTED_COMPLETE_CONNECTED_GRAPH_N_NODES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "N_TH_TERM_SERIES_2_12_36_80_150",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "ONE_LINE_FUNCTION_FOR_FACTORIAL_OF_A_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PADOVAN_SEQUENCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PAINTING_FENCE_ALGORITHM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PERFECT_REVERSIBLE_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PIZZA_CUT_PROBLEM_CIRCLE_DIVISION_LINES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "POLICEMEN_CATCH_THIEVES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "POSITION_ELEMENT_STABLE_SORT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "POSITION_OF_RIGHTMOST_SET_BIT_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "POSITIVE_ELEMENTS_EVEN_NEGATIVE_ODD_POSITIONS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "POSSIBLE_FORM_TRIANGLE_ARRAY_VALUES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "POSSIBLE_TO_MAKE_A_DIVISIBLE_BY_3_NUMBER_USING_ALL_DIGITS_IN_AN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PRIMALITY_TEST_SET_1_INTRODUCTION_AND_SCHOOL_METHOD",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PRIMALITY_TEST_SET_1_INTRODUCTION_AND_SCHOOL_METHOD_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PRIMALITY_TEST_SET_5USING_LUCAS_LEHMER_SERIES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PRIME_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PRINT_MAXIMUM_SHORTEST_DISTANCE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PRINT_WORDS_STRING_REVERSE_ORDER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROBABILITY_THREE_RANDOMLY_CHOSEN_NUMBERS_AP",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PRODUCT_NODES_K_TH_LEVEL_TREE_REPRESENTED_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_AREA_SQUARE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_BINARY_DECIMAL_CONVERSION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_BINARY_DECIMAL_CONVERSION_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_CALCULATE_AREA_OCTAGON",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_CALCULATE_VOLUME_ELLIPSOID",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "PROGRAM_CALCULATE_VOLUME_OCTAHEDRON",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_CHECK_ARRAY_SORTED_NOT_ITERATIVE_RECURSIVE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_CHECK_INPUT_INTEGER_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_CHECK_PLUS_PERFECT_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_CIRCUMFERENCE_PARALLELOGRAM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_COUNT_OCCURRENCE_GIVEN_CHARACTER_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_FIND_SLOPE_LINE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "PROGRAM_FIND_SMALLEST_DIFFERENCE_ANGLES_TWO_PARTS_GIVEN_CIRCLE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_FIND_STRING_START_END_GEEKS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_FOR_DEADLOCK_FREE_CONDITION_IN_OPERATING_SYSTEM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_OCTAL_DECIMAL_CONVERSION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_PAGE_REPLACEMENT_ALGORITHMS_SET_2_FIFO",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_TO_CHECK_IF_A_GIVEN_NUMBER_IS_LUCKY_ALL_DIGITS_ARE_DIFFERENT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_TO_FIND_REMAINDER_WITHOUT_USING_MODULO_OR_OPERATOR",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_TO_FIND_REMAINDER_WITHOUT_USING_MODULO_OR_OPERATOR_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_TO_FIND_REMAINDER_WITHOUT_USING_MODULO_OR_OPERATOR_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PROGRAM_TO_FIND_THE_VOLUME_OF_A_TRIANGULAR_PRISM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "PYTHAGOREAN_QUADRUPLE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "PYTHON_PROGRAM_FIND_PERIMETER_CIRCUMFERENCE_SQUARE_RECTANGLE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "PYTHON_PROGRAM_FIND_PERIMETER_CIRCUMFERENCE_SQUARE_RECTANGLE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "QUERIES_COUNTS_ARRAY_ELEMENTS_VALUES_GIVEN_RANGE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "QUICK_WAY_CHECK_CHARACTERS_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "REARRANGE_ARRAY_MAXIMUM_MINIMUM_FORM_SET_2_O1_EXTRA_SPACE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "REARRANGE_ARRAY_MAXIMUM_MINIMUM_FORM_SET_2_O1_EXTRA_SPACE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "RECURSIVE_C_PROGRAM_LINEARLY_SEARCH_ELEMENT_GIVEN_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "REMAINDER_7_LARGE_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "REMOVE_MINIMUM_ELEMENTS_EITHER_SIDE_2MIN_MAX",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "REMOVE_MINIMUM_NUMBER_ELEMENTS_NO_COMMON_ELEMENT_EXIST_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "ROUND_THE_GIVEN_NUMBER_TO_NEAREST_MULTIPLE_OF_10",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SCHEDULE_JOBS_SERVER_GETS_EQUAL_LOAD",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SEARCHING_ARRAY_ADJACENT_DIFFER_K",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "SEARCH_ALMOST_SORTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "SEARCH_AN_ELEMENT_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_ELEMENTS_IS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "SEARCH_INSERT_AND_DELETE_IN_AN_UNSORTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "SEQUENCES_GIVEN_LENGTH_EVERY_ELEMENT_EQUAL_TWICE_PREVIOUS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SEQUENCES_GIVEN_LENGTH_EVERY_ELEMENT_EQUAL_TWICE_PREVIOUS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SMALLEST_DIFFERENCE_PAIR_VALUES_TWO_UNSORTED_ARRAYS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SMALLEST_SUM_CONTIGUOUS_SUBARRAY",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SORT_ARRAY_APPLYING_GIVEN_EQUATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "SORT_ARRAY_CONTAIN_1_N_VALUES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SORT_ARRAY_TWO_HALVES_SORTED",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SORT_EVEN_NUMBERS_ASCENDING_ORDER_SORT_ODD_NUMBERS_DESCENDING_ORDER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SPACE_OPTIMIZED_SOLUTION_LCS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SPLIT_ARRAY_ADD_FIRST_PART_END",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SPLIT_N_MAXIMUM_COMPOSITE_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SQUARED_TRIANGULAR_NUMBER_SUM_CUBES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SQUARE_PYRAMIDAL_NUMBER_SUM_SQUARES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SQUARE_ROOT_OF_AN_INTEGER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SQUARE_ROOT_OF_AN_INTEGER_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "STACK_PERMUTATIONS_CHECK_IF_AN_ARRAY_IS_STACK_PERMUTATION_OF_OTHER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "STEINS_ALGORITHM_FOR_FINDING_GCD_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "STOOGE_SORT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "STRING_K_DISTINCT_CHARACTERS_NO_CHARACTERS_ADJACENT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SUBARRAYS_DISTINCT_ELEMENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUBSEQUENCES_SIZE_THREE_ARRAY_WHOSE_SUM_DIVISIBLE_M",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SUM_BINOMIAL_COEFFICIENTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_BINOMIAL_COEFFICIENTS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_DIVISORS_1_N_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_FACTORS_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_FAI_AJ_PAIRS_ARRAY_N_INTEGERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_FIBONACCI_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_K_TH_GROUP_ODD_POSITIVE_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_K_TH_GROUP_ODD_POSITIVE_NUMBERS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_LARGEST_PRIME_FACTOR_NUMBER_LESS_EQUAL_N",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_MANHATTAN_DISTANCES_PAIRS_POINTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_NODES_K_TH_LEVEL_TREE_REPRESENTED_STRING",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SUM_OF_ALL_ELEMENTS_UP_TO_NTH_ROW_IN_A_PASCALS_TRIANGLE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_OF_ALL_ELEMENTS_UP_TO_NTH_ROW_IN_A_PASCALS_TRIANGLE_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_OF_ALL_PROPER_DIVISORS_OF_A_NATURAL_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_PAIRWISE_PRODUCTS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_PAIRWISE_PRODUCTS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_PAIRWISE_PRODUCTS_2",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_SERIES_0_6_0_06_0_006_0_0006_N_TERMS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_SERIES_12_32_52_2N_12",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_SERIES_12_32_52_2N_12_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_SERIES_23_45_67_89_UPTO_N_TERMS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_SERIES_555555_N_TERMS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_SUBSETS_SET_FORMED_FIRST_N_NATURAL_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SUM_TWO_LARGE_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "SWAP_ALL_ODD_AND_EVEN_BITS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "SWAP_BITS_IN_A_GIVEN_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 4
+    },
+    {
+      "id": "SWAP_TWO_NIBBLES_BYTE",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TAIL_RECURSION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TAIL_RECURSION_FIBONACCI",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 3
+    },
+    {
+      "id": "TEMPLE_OFFERINGS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TILING_WITH_DOMINOES",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TOTAL_NUMBER_OF_NON_DECREASING_NUMBERS_WITH_N_DIGITS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TOTAL_NUMBER_OF_NON_DECREASING_NUMBERS_WITH_N_DIGITS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TRIANGULAR_MATCHSTICK_NUMBER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TRIANGULAR_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TRIANGULAR_NUMBERS_1",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "TURN_OFF_THE_RIGHTMOST_SET_BIT",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "UGLY_NUMBERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "WAYS_REMOVE_ONE_ELEMENT_BINARY_STRING_XOR_BECOMES_ZERO",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "WRITE_AN_EFFICIENT_METHOD_TO_CHECK_IF_A_NUMBER_IS_MULTIPLE_OF_3",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "WRITE_A_C_PROGRAM_TO_FIND_THE_PARITY_OF_AN_UNSIGNED_INTEGER",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "WRITE_ONE_LINE_C_FUNCTION_TO_FIND_WHETHER_A_NO_IS_POWER_OF_TWO",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    },
+    {
+      "id": "WRITE_YOU_OWN_POWER_WITHOUT_USING_MULTIPLICATION_AND_DIVISION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 2
+    },
+    {
+      "id": "ZECKENDORFS_THEOREM_NON_NEIGHBOURING_FIBONACCI_REPRESENTATION",
+      "languages": [
+        "cpp",
+        "java",
+        "python"
+      ],
+      "has_tests": true,
+      "num_test_params": 1
+    }
+  ]
+}
